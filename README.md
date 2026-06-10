@@ -10,6 +10,6 @@
 
 💼 Administrative Assistant & Computer Instructor
 
-🔗 LinkedIn: [https://www.linkedin.com/in/moin-uddin-shah/]
+🔗 LinkedIn: https://www.linkedin.com/in/moin-uddin-shah/
 
 ⭐ Goal: To grow as a software developer and contribute to real-world projects
