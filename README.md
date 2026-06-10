@@ -2,14 +2,12 @@
 
 🎓 Computer Science Student
 
-💻 Learning C++, Python, and Web Development
+💻 Exploring Software Development, Artificial Intelligence, and Web Technologies
 
-🚀 Building projects and improving my problem-solving skills
+🚀 Building projects, learning new technologies, and improving problem-solving skills
 
-📚 Currently exploring software development through hands-on learning
+📚 Currently learning C++, Python, and modern development tools
 
 💼 Administrative Assistant & Computer Instructor
 
-🔗 LinkedIn: https://www.linkedin.com/in/moin-uddin-shah/
-
-⭐ Goal: To grow as a software developer and contribute to real-world projects
+🔗 LinkedIn: https://www.linkedin.com/in/moin-uddin-a972a4415/
