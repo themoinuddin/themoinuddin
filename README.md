@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Moin Uddin 👋
 
-<!--
-**themoinuddin/themoinuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Learning C++, Python, and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building projects and improving my problem-solving skills
+
+📚 Currently exploring software development through hands-on learning
+
+💼 Administrative Assistant & Computer Instructor
+
+🔗 LinkedIn: [https://www.linkedin.com/in/moin-uddin-shah/]
+
+⭐ Goal: To grow as a software developer and contribute to real-world projects
